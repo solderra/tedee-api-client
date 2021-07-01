@@ -10,12 +10,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukasroegner/homebridge-tedee.git"
+    "url": "https://github.com/solderra/tedee-api-client.git"
   },
   "devDependencies": {
     "@types/node": "^10",
     "@types/qs": "6.5.1",
-    "rimraf": "3.0.2",
     "typescript": "^3.8.3"
   },
   "dependencies": {
@@ -24,7 +23,7 @@
     "winston": "^3.3.3"
   },
   "bugs": {
-    "url": "https://github.com/lukasroegner/homebridge-tedee/issues"
+    "url": "https://github.com/solderra/tedee-api-client/issues"
   },
   "main": "dist/index.js",
   "engines": {
